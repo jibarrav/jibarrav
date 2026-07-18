@@ -60,12 +60,15 @@ Designed and implemented a comprehensive BI indicator system enabling periodic e
 
 **Technologies:** SQL Server, Business Intelligence, Statistical Modeling, Data Governance
 
-[**Explore public versión**](https://www.gob.mx/agricultura/dgsiap/acciones-y-programas/numeros-del-campo)
+[**Explore public versión**](https://numerosdelcampo.agricultura.gob.mx/publicnew/index.php)
 
 ## 🏆 Featured Implementations
-[**En marcha, Tablero de Control Agroalimentario; sentará las bases para un comercio más justo: EMM**](https://www.gob.mx/agricultura/prensa/en-marcha-tablero-de-control-agroalimentario-sentara-las-bases-para-un-comercio-mas-justo-emm )
+[**Cosechando Números del Campo**](https://www.gob.mx/agricultura/prensa/en-marcha-tablero-de-control-agroalimentario-sentara-las-bases-para-un-comercio-mas-justo-emm)
+
+[**En marcha, Tablero de Control Agroalimentario; sentará las bases para un comercio más justo: EMM**](https://www.gob.mx/agricultura/prensa/en-marcha-tablero-de-control-agroalimentario-sentara-las-bases-para-un-comercio-mas-justo-emm)
 
 [**Fijan ruta del Tablero Agroalimentario**](https://www.eleconomista.com.mx/empresas/Fijan-ruta-del-Tablero-Agroalimentario-20140516-0093.html)
+
 
 ---
 
