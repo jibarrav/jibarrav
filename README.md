@@ -204,9 +204,7 @@ My approach centers on three pillars:
 3. **Continuous Improvement** — Systematic optimization, learning, and adaptation
 
 > *"The intersection of data analytics, agile methodology, and governance creates organizations that are simultaneously innovative and resilient."*
-
 ---
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jibarrav&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=jibarrav&theme=dracula&hide_border=false)<br/>
@@ -216,7 +214,4 @@ My approach centers on three pillars:
 ---
 
 **Technical Leader | Data Strategist | Governance Architect**
-
 *Last updated: May 2026*
-
-
