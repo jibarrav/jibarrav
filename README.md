@@ -115,6 +115,13 @@ Architected and deployed a comprehensive technical control framework optimizing 
 
 [**Explore the SGCE Repository Documentation Tracking Dashboard**](https://datastudio.google.com/reporting/f33811fb-f8a5-40dc-a35e-ac473ec13687)
 
+<!-- Este es un comentario oculto 
+[**Explore the Comprehensive Program for the Local Electoral Process 2023-2024 Dashboard**](https://datastudio.google.com/s/scCdgpeEmTI)
+[**Explore the Institutional Planning Monitoring 2024 Dashboard**](https://datastudio.google.com/s/gW8qIc-zhcs)
+[**Explore the Master List Dashboard and movements in the Repository**](https://datastudio.google.com/reporting/38d93589-c396-4d2d-8f9d-e764b1d3c819)
+[**Explore the SGCE Repository Documentation Tracking Dashboard**](https://datastudio.google.com/reporting/f33811fb-f8a5-40dc-a35e-ac473ec13687)
+-->
+
 ---
 
 ## 🛠️ Technical Stack
