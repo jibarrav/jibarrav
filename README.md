@@ -46,9 +46,7 @@ I'm a **Senior Data Analyst and Technical Project Manager** with a hybrid expert
 
 ---
 
-## 🏆 Featured Implementations
-
-### 1. National Agricultural Market Intelligence System
+## 1. National Agricultural Market Intelligence System
 **Business Intelligence Platform for Food Security**
 
 Designed and implemented a comprehensive BI indicator system enabling periodic evaluation of national market behavior for agricultural products. This strategic initiative directly supported the executive commitment to boost domestic food production and ensure equitable market access for the population.
@@ -72,7 +70,7 @@ Designed and implemented a comprehensive BI indicator system enabling periodic e
 
 ---
 
-### 2. Data Science Portfolio
+## 2. Data Science Portfolio
 **Advanced Analytical Projects Repository**
 
 A centralized, professionally-documented collection of end-to-end data science implementations showcasing technical depth across the analytical pipeline.
@@ -89,7 +87,7 @@ A centralized, professionally-documented collection of end-to-end data science i
 
 ---
 
-### 3. Technical Control Teams Implementation & Monitoring (IECM)
+## 3. Technical Control Teams Implementation & Monitoring (IECM)
 **Agile Workflow Management for Electoral Processes**
 
 Architected and deployed a comprehensive technical control framework optimizing agile workflows for large-scale electoral process management in the public sector. Designed to enhance traceability, streamline document processing, and maximize operational transparency.
