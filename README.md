@@ -85,7 +85,7 @@ A centralized, professionally-documented collection of end-to-end data science i
 
 **Technologies:** Python (Pandas, NumPy, SciPy, Matplotlib), SQL, Jupyter Notebooks, Git
 
-[**Explore Repository**](https://github.com/jibarravFirst)
+[**Explore the project portfolio repository**](https://github.com/jibarrav/Data_Science_Portfolio-Tripleten.git)
 
 ---
 
